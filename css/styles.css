@@ -20,3 +20,12 @@ h5 {
   padding: 10 px;
 
 }
+
+ul {
+  font-style: italic;
+}
+
+.column h3 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-stretch: wider;
+}
