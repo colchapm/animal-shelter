@@ -1,0 +1,22 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+h1 {
+  text-align: center;
+  color: crimson;
+  background-color: floralwhite;
+}
+
+h5 {
+  text-align: center;
+}
+
+.centered-image {
+  width: 70%;
+  height: auto;
+  border: 2px grey;
+  padding: 10 px;
+
+}
